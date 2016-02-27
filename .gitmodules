@@ -316,3 +316,6 @@
 [submodule "src/github.com/pkg/sftp"]
 	path = src/github.com/pkg/sftp
 	url = https://github.com/pkg/sftp
+[submodule "src/k8s.io/kubernetes"]
+	path = src/k8s.io/kubernetes
+	url = https://github.com/kubernetes/kubernetes
